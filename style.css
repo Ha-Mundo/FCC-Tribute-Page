@@ -1,0 +1,82 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Crimson Text", serif;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+/* #main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+} */
+
+h1 {
+  margin-bottom: -1rem;
+  font-size: 5rem;
+}
+
+p {
+  font-size: 2.6rem;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  border-radius: 5px;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+li {
+  margin: 20px;
+}
+
+figure {
+  text-align: center;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 500px;
+  margin: 0 auto 50px auto;
+  text-align: center;
+}
+
+blockquote p {
+  font-size: 2rem;
+}
+
+#hero-img,
+#paintings {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+#img-div {
+  padding: 20px;
+}
+
+#image {
+  width: 25rem;
+  /* max-height: 50vh; */
+}
+
+#mona-lisa,
+#leda {
+  /*   max-width: 100%;
+  height: auto; */
+  width: 60%;
+}
